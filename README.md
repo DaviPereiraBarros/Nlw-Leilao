@@ -28,7 +28,7 @@ SQLite
 
 ## ScreenShots
 
-<img src="assets/images/ScreenShot_SmartTec.jpeg">
+<img src="NLW-LEILAO/ScreenShoot.jpeg">
 
 
 
