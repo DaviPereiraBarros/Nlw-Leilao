@@ -1,0 +1,6 @@
+@NLW_LEILAO.API_HostAddress = http://localhost:5010
+
+GET {{NLW_LEILAO.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
