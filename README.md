@@ -28,7 +28,7 @@ SQLite
 
 ## ScreenShots
 
-<img src="NLW-LEILAO/ScreenShoot.jpeg">
+<img src="ScreenShoot.jpeg">
 
 
 
